@@ -25,9 +25,6 @@ func TestNewPackage(t *testing.T) {
 		"no_spec_version": {
 			expectedErrContains: "could not read specification version",
 		},
-		"bad_deploy_variants": {
-			expectedErrContains: "TODO",
-		},
 	}
 
 	for pkgName, test := range tests {
