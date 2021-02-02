@@ -6,7 +6,7 @@ streams:
     description: Second data stream description
 icons:
   - src: /img/first_icon.svg
-    title: First data stream icon
+    title: Second data stream icon
     size: 32x32
     type: image/svg+xml
 promoted: true
