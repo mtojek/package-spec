@@ -4,4 +4,9 @@ streams:
   - input: logfile
     title: Second data stream title
     description: Second data stream description
+icons:
+  - src: /img/first_icon.svg
+    title: First data stream icon
+    size: 32x32
+    type: image/svg+xml
 promoted: true
