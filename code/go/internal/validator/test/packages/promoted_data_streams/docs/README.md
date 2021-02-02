@@ -1,1 +1,1 @@
-This is package README
+This package contains three data streams where two of them are promoted.
