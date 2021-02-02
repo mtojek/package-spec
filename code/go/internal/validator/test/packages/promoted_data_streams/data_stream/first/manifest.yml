@@ -1,0 +1,7 @@
+title: First data stream
+type: logs
+streams:
+  - input: logfile
+    title: First data stream title
+    description: First data stream description
+promoted: true

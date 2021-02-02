@@ -1,0 +1,7 @@
+title: Second data stream
+type: logs
+streams:
+  - input: logfile
+    title: Second data stream title
+    description: Second data stream description
+promoted: true

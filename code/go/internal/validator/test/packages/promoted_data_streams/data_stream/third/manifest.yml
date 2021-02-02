@@ -1,0 +1,6 @@
+title: Third data stream
+type: logs
+streams:
+  - input: logfile
+    title: Third data stream title
+    description: Third data stream description

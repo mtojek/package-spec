@@ -1,0 +1,8 @@
+format_version: 1.0.4
+name: promoted_data_streams
+title: Promoted data streams
+description: This package contains promoted data streams.
+version: 0.1.2
+release: beta
+owner:
+  github: elastic/foobar
